@@ -1,6 +1,6 @@
 # Keerthan Ekbote
 
-> Lead Engineer [@solo.io](https://github.com/solo-io/)
+> Software Engineer [@solo.io](https://github.com/solo-io/)
 
 <div style="margin: auto; text-align: center">
     <span>
